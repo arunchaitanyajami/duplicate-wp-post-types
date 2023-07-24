@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Duplicate Page and Post
-Plugin URI: https://wordpress.org/plugins/duplicate-wp-page-post/
-Description: Quickly clone a page, post or custom post and supports Gutenberg.
-Author: Arjun Thakur
-Author URI: https://profiles.wordpress.org/arjunthakur#content-plugins
-Version: 2.6.3
+Plugin Name: Duplicate Post Type
+Plugin URI: https://github.com/arunchaitanyajami/duplicate-wp-post-types/
+Description: Quickly clone a page, post, or custom post, It also supports Gutenberg.
+Author: arunchaitanyajami
+Author URI: https://github.com/arunchaitanyajami
+Version: 1.0.0
 License: GPLv2 or later
 Text Domain: dpp_wpp_page
 */
